@@ -15,6 +15,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohammad behzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad behzaman" height="30" width="40" /></a>
 <a href="https://instagram.com/mehran-bmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehran-bmn" height="30" width="40" /></a>
-
   <a href="https://t.me/mehran_bmn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="mehran_bmn" height="30" /></a>
 </p>
