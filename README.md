@@ -6,34 +6,37 @@
 
 
 
-🧑‍💻 توسعه‌دهنده فرانت‌اند | عاشق React  
-📍 ساکن اصفهان، ایران  
-📚 همیشه در حال یادگیری و رشد در دنیای وب
+## 👋 Hey, I'm Mehran
+
+🧑‍💻 Front-End Developer | React Enthusiast  
+📍 Based in Isfahan, Iran  
+📚 Passionate about building modern, clean UIs with cutting-edge tools
 
 ---
 
-### 🛠 تکنولوژی‌هایی که باهاشون کار می‌کنم:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-<br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+### 🛠 Technologies I work with:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
+</p>
 
 ---
 
-### 📫 ارتباط با من:
+### 📫 Contact Me:
 
-- 💬 تلگرام: [@mehran_bmn](https://t.me/mehran_bmn)  
-- 📸 اینستاگرام: [@mehran_bmn](https://instagram.com/mehran_bmn)
+- 💬 Telegram: [@mehran_bmn](https://t.me/mehran_bmn)  
+- 📸 Instagram: [@mehran_bmn](https://instagram.com/mehran_bmn)
 
 ---
 
-> "کد زدن فقط یه شغل نیست، یه سبک زندگیه."
-
+> “Coding isn't just a job — it's a lifestyle.”
