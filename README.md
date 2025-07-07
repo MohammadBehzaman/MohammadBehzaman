@@ -4,7 +4,7 @@
 </h1>
 
 
-<span align="center">  A passionate frontend developer from Iran </span>
+<p align="center">  A passionate frontend developer from Iran </p>
 
 
   <div  style=" width: 100%;">
