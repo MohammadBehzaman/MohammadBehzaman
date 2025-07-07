@@ -13,7 +13,7 @@
     <p>📚 Passionate about building modern, clean UIs with cutting-edge tools</p>
   </div>
   <div style="display: inline-block; width: 50%; vertical-align: rigth;">
-    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="100%" alt="Developer GIF" />
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="50%" alt="Developer GIF" />
   </div>
 </div>
 
