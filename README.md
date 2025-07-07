@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+
+
 <div align="center" >
   <img align="" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
 </div>
 
 
 
----
+##<h1 align="center">Hi 👋, I'm Mohammad</h1>
+##<p align="center">A passionate frontend developer from Iran</p>
 
 🧑‍💻 Front-End Developer | React Enthusiast  
 📍 Based in Isfahan, Iran  
