@@ -6,8 +6,8 @@
 
 
 
-##Hi 👋, I'm Mohammad
-##A passionate frontend developer from Iran
+## 👋 Hey, I'm Mohammad
+## A passionate frontend developer from Iran
 
 🧑‍💻 Front-End Developer | React Enthusiast  
 📍 Based in Isfahan, Iran  
