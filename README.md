@@ -6,7 +6,7 @@
 
 
 
-## 👋 Hey, I'm Mehran
+---
 
 🧑‍💻 Front-End Developer | React Enthusiast  
 📍 Based in Isfahan, Iran  
