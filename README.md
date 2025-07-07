@@ -32,10 +32,12 @@
 
 ### 📫 Contact Me:
 
-- <a href="https://t.me/mehran_bmn" target="_blank">
+ <a href="https://t.me/mehran_bmn" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-- 📧 Email: [@mehran_bmn](https://instagram.com/mehran_bmn)
+<a href="mailto:bmnworkfront81@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 ---
 
