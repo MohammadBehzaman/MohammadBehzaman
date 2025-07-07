@@ -28,6 +28,15 @@
   <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,redux,webpack,babel" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mui,jest" />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,git,github,npm,vite,figma,xd,photoshop,illustrator" /><br>
+    
+</div>
 </p>
 
 ---
