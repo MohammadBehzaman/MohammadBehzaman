@@ -1,15 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=E11D48&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Mohammad+Behzaman!;&center=true&multicolor=true&color1=E11D48&color2=6D28D9" />
+
+ <h1 align="center">
+    <img  src="https://readme-typing-svg.herokuapp.com/?color=6d28d9&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Behzaman!;" />
 </h1>
+
 
 <span>  A passionate frontend developer from Iran </span>
 
-<div align="center" display="flex" >
-  <img align="" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
-  🧑‍💻 Front-End Developer | React.js <br/>
-📍 Based in Isfahan, Iran  
-📚 Passionate about building modern, clean UIs with cutting-edge tools
-</div>
+<table>
+  <tr>
+    <td>
+
+<h3>🧑‍💻 Front-End Developer | React.js</h3>
+<p>📍 Based in Isfahan, Iran</p>
+<p>📚 Passionate about building modern, clean UIs with cutting-edge tools</p>
+
+  </td>
+  <td>
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400" height="280" alt="Developer Illustration" />
+  </td>
+</tr>
+</table>
+
 
 
 
