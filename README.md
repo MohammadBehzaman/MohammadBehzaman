@@ -7,7 +7,7 @@
 <span>  A passionate frontend developer from Iran </span>
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: middle; text-align: left; max-width: 50%;">
+  <div style="display:flex; justify-content: space-between; align-items: center;">
     <h3>🧑‍💻 Front-End Developer | React.js</h3>
     <p>📍 Based in Isfahan, Iran</p>
     <p>📚 Passionate about building modern, clean UIs with cutting-edge tools</p>
