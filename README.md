@@ -7,7 +7,7 @@
 
 
 ## 👋 Hey, I'm Mohammad
-<h4> A passionate frontend developer from Iran </h4>h4>
+<h4> A passionate frontend developer from Iran </h4>
 
 🧑‍💻 Front-End Developer | React Enthusiast  
 📍 Based in Isfahan, Iran  
@@ -45,4 +45,4 @@
 
 ---
 
-> “Coding isn't just a job — it's a lifestyle.”
+> "کد زدن فقط یه شغل نیست، یه سبک زندگیه."
