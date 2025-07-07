@@ -6,7 +6,9 @@
 
 
 
-## 👋 Hey, I'm Mohammad
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6d28d9&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Behzaman!;" />
+</h1>
 <h4> A passionate frontend developer from Iran </h4>
 
 🧑‍💻 Front-End Developer | React.js <br/>
@@ -44,5 +46,5 @@
 </a>
 
 ---
-<p aligen="center">
+<p align="center">
 > "کد زدن فقط یه شغل نیست، یه سبک زندگیه."</p>
