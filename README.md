@@ -20,7 +20,7 @@
 
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind," />
      <br/>
     <img src="https://skillicons.dev/icons?i=javascript,react" />
     <br/>
