@@ -9,7 +9,7 @@
 ## 👋 Hey, I'm Mohammad
 <h4> A passionate frontend developer from Iran </h4>
 
-🧑‍💻 Front-End Developer | React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="10" height="10" alt="React"/>  
+🧑‍💻 Front-End Developer | React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React"/>  
 📍 Based in Isfahan, Iran  
 📚 Passionate about building modern, clean UIs with cutting-edge tools
 
