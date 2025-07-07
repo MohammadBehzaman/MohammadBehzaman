@@ -31,8 +31,8 @@
   <br/>
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,redux,webpack,babel" />
+    <img src="https://skillicons.dev/icons?i=javascript,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,redux,webpack,babel" />
     <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mui,jest" />
     <img src="https://skillicons.dev/icons?i=postman,vscode,git,github,npm,vite,figma,xd,photoshop,illustrator" /><br>
     
