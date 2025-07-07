@@ -7,7 +7,7 @@
 <span>  A passionate frontend developer from Iran </span>
 
 
-  <div style="display: inline; width: 50%; vertical-align: rigth;">
+  <div align="right"  style="display: inline; width: 50%; vertical-align: rigth;">
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="40%" alt="Developer GIF" />
   </div>
   <div  style="display: inline; text-align: left; width: 50%; vertical-align: left;">
