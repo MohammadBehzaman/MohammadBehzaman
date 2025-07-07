@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=E11D48&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Mohammad+Behzaman!;&center=true&multicolor=true&color1=E11D48&color2=6D28D9" />
 </h1>
 
-## A passionate frontend developer from Iran 
+<span>  A passionate frontend developer from Iran </span>
 
-<div align="center" >
+<div align="center" display="flex" >
   <img align="" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
   🧑‍💻 Front-End Developer | React.js <br/>
 📍 Based in Isfahan, Iran  
