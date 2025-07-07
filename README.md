@@ -6,20 +6,16 @@
 
 <span>  A passionate frontend developer from Iran </span>
 
-<table>
-  <tr>
-    <td>
-
-<h3>🧑‍💻 Front-End Developer | React.js</h3>
-<p>📍 Based in Isfahan, Iran</p>
-<p>📚 Passionate about building modern, clean UIs with cutting-edge tools</p>
-
-  </td>
-  <td>
-    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400" height="280" alt="Developer Illustration" />
-  </td>
-</tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; vertical-align: middle; text-align: left; max-width: 50%;">
+    <h3>🧑‍💻 Front-End Developer | React.js</h3>
+    <p>📍 Based in Isfahan, Iran</p>
+    <p>📚 Passionate about building modern, clean UIs with cutting-edge tools</p>
+  </div>
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400" height="280" alt="Developer GIF" />
+  </div>
+</div>
 
 
 
