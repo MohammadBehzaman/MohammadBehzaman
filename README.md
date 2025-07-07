@@ -9,7 +9,7 @@
 ## 👋 Hey, I'm Mohammad
 <h4> A passionate frontend developer from Iran </h4>
 
-🧑‍💻 Front-End Developer | React.js 
+🧑‍💻 Front-End Developer | React.js <br/>
 📍 Based in Isfahan, Iran  
 📚 Passionate about building modern, clean UIs with cutting-edge tools
 
