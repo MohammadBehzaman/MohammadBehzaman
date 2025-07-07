@@ -6,7 +6,7 @@
 
 <span>  A passionate frontend developer from Iran </span>
 
-<div align="center" style="width: 100%; ">
+
   <div style="display: inline; width: 50%; vertical-align: rigth;">
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="40%" alt="Developer GIF" />
   </div>
@@ -15,7 +15,7 @@
     <p>📍 Based in Isfahan, Iran</p>
     <p>📚 Passionate about building modern, clean UIs with cutting-edge tools</p>
   </div>
-</div>
+
 
 
 
