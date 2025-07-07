@@ -6,8 +6,8 @@
 
 
 
-##<h1 align="center">Hi 👋, I'm Mohammad</h1>
-##<p align="center">A passionate frontend developer from Iran</p>
+##Hi 👋, I'm Mohammad
+##A passionate frontend developer from Iran
 
 🧑‍💻 Front-End Developer | React Enthusiast  
 📍 Based in Isfahan, Iran  
