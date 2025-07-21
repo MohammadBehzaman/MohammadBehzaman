@@ -57,18 +57,12 @@
 <p align="center">
 > "کد زدن فقط یه شغل نیست، یه سبک زندگیه."</p>
 
-### 📈 Stats & Contribution
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</div>
-
 ##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" />
+  <img alt="github-snake" src="[./assets/github-snake.svg](https://raw.githubusercontent.com/Chaitanya-Pratap-Singh/Chaitanya-Pratap-Singh/main/assets/github-snake-dark.svg)" />
 </picture>
 
 
