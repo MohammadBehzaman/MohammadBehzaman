@@ -56,3 +56,7 @@
 ---
 <p align="center">
 > "کد زدن فقط یه شغل نیست، یه سبک زندگیه."</p>
+
+
+
+▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
